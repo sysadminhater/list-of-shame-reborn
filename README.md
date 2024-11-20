@@ -34,7 +34,7 @@
 **Một số tác hại của việc sử dụng plugin crack:**
 
 ![crack1](https://files.asakacloud.vn/share/list-of-shame/leak1.png) 
-* Dữ liệu tại một mạng lưới máy chủ lớn bị hack và bị chia sẻ trên mạng. Có vẻ lý do bị leak không liên quan nhưng hậu quả đều có thể quy về kết quả như thế này.
+* Dữ liệu tại một mạng lưới máy chủ lớn bị hack và bị chia sẻ trên mạng. **Có vẻ lý do bị leak không liên quan nhưng hậu quả đều có thể quy về kết quả như thế này***.
 
 
 ![backdoor](https://files.asakacloud.vn/share/list-of-shame/oceanbox1.png)
