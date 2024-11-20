@@ -1,7 +1,8 @@
 [![discussion](https://img.shields.io/badge/discussion-here-green)](https://github.com/sysadminhater/list-of-shame-reborn/discussions) [![issue](https://img.shields.io/badge/issue-here-yellow)](https://github.com/sysadminhater/list-of-shame-reborn/issues)
 # List Of Shame MCVN Reborn
-Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì) gây tranh cãi trong cộng đồng Minecraft Việt Nam. Được lấy cảm hứng từ [List Of Shame MCVN](https://github.com/HSGamer/list-of-shame-mcvn) (Last update: 3 năm trước) và sẽ được cập nhật liên tục.
-Có thể đóng góp thêm [**tại đây**](https://github.com/sysadminhater/list-of-shame-reborn/issues) bằng cách tạo issue.
+- Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì) gây tranh cãi trong cộng đồng Minecraft Việt Nam. Được lấy cảm hứng từ [List Of Shame MCVN](https://github.com/HSGamer/list-of-shame-mcvn) (Last update: 3 năm trước) và sẽ được cập nhật liên tục.
+- Có thể đóng góp thêm [**tại đây**](https://github.com/sysadminhater/list-of-shame-reborn/issues) bằng cách tạo issue.
+- Các nội dung ở dưới đều dựa trên đóng góp của cộng đồng.
 
 ## [Summerhost ( Hosting miễn phí )](https://undefined.is-a.dev/summerhost/)
 > Tốt nhất không nên chạm vào nếu không muốn mất dữ liệu.
@@ -15,7 +16,7 @@ Có thể đóng góp thêm [**tại đây**](https://github.com/sysadminhater/l
 ## Hosting tại Việt Nam
 > Đúng đấy, hỗ trợ lẫn hiệu năng của máy chủ xứng đáng với từng đồng bạn bỏ ra. Không đánh đồng tất cả Hosting/VPS tại Việt Nam.
 
-***Một số hạn chế của Hosting/VPS tiêu biểu tại Việt Nam (Dựa trên trải nghiệm mang tính chủ quan của tôi):***
+***Một số hạn chế của Hosting/VPS tiêu biểu tại Việt Nam:***
 - **Asaka Cloud**: Hiệu năng ổn tuy nhiên mật độ bảo trì khá thường xuyên (2 lần/tháng vào thời điểm tháng 8/2024).
 - **Beecloud**: Cạnh tranh bẩn, host hiệu năng kém, founder trẻ trâu.
 - **GachCloud**: TPS (Tick Per Second) rất hay tụt làm ảnh hưởng trải nghiệm chơi.
