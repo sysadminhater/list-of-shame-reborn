@@ -9,7 +9,7 @@ export default defineConfig({
       'link',
       {
         rel: 'icon',
-        href: '/assets/logo.png'
+        href: '/logo.png'
       }
     ],
     [
@@ -36,7 +36,7 @@ export default defineConfig({
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/assets/logo.png',
+    logo: '/logo.png',
 
     nav: [
       //{ text: 'Home', link: '/' },
