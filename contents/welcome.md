@@ -8,4 +8,4 @@ Danh sách này được lấy cảm hứng từ dự án **[List Of Shame MCVN]
 
 ### **Làm Thế Nào Để Tham Gia Đóng Góp?**
 
-Nếu bạn biết về một sự việc, người, server hoặc dự án nào đó mà bạn nghĩ rằng cần phải đưa vào danh sách này, vui lòng đọc thêm ở [bài viết này](/contribution).
+Nếu bạn biết về một sự việc, người, server hoặc dự án nào đó mà bạn nghĩ rằng cần phải đưa vào danh sách này, vui lòng đọc thêm ở [bài viết này](./contribution).
