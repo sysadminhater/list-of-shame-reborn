@@ -55,8 +55,7 @@ export default defineConfig({
         text: 'Hosting/VPS',
         items: [
           { text: 'Summerhost', link: '/hosting-vps/summerhost' },
-          { text: 'Devcloud', link: '/hosting-vps/devcloud' },
-          { text: 'Hosting tại Việt Nam', link: '/hosting-vps/vn-hosting' }
+          { text: 'Devcloud', link: '/hosting-vps/devcloud' }
         ]
       },
       {
