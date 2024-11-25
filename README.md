@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Chúng tôi đang chuẩn bị để chuyển sang website riêng (https://listofsha.me), vì vậy trang này sẽ không còn được cập nhật.
+
 [![issue](https://img.shields.io/badge/issue-here-yellow)](https://github.com/sysadminhater/list-of-shame-reborn/issues)
 # List Of Shame MCVN Reborn
 - Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì) gây tranh cãi trong cộng đồng Minecraft Việt Nam. Được lấy cảm hứng từ [List Of Shame MCVN](https://github.com/HSGamer/list-of-shame-mcvn) (Last update: 3 năm trước) và sẽ được cập nhật liên tục.
