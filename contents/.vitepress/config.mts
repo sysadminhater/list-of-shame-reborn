@@ -70,6 +70,12 @@ export default defineConfig({
         items: []
       },
       {
+        text: 'Cá nhân',
+        items: [
+          { text: 'Dlee / Đỗ Long', link: '/personal/dlee.md' }
+        ]
+      },
+      {
         text: 'Dịch vụ',
         items: []
       }
