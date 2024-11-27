@@ -68,6 +68,10 @@ export default defineConfig({
       {
         text: 'Lừa đảo',
         items: []
+      },
+      {
+        text: 'Dịch vụ',
+        items: []
       }
     ],
 
