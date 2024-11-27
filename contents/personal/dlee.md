@@ -28,7 +28,7 @@
 > Ở đây có 3 hosting. Tôi sẽ gọi tắt là Hosting A, Hosting H và Hosting M.
 
 ![dlee4](https://files.asakacloud.vn/share/list-of-shame/dlee/dlee4.png)
-> Mua một host ~16Gb RAM, với một đống file "leak" + Không hề thực hiện tối ưu nhưng vẫn muốn "cân" nhiều người chơi (Bắt bẻ tôi nếu tôi sai).
+> Mua một loại host dành riêng cho việc test server vỏn vẹn 300k, ~16Gb RAM, với một đống file "leak" + Không hề thực hiện tối ưu nhưng vẫn muốn "cân" nhiều người chơi (Bắt bẻ tôi nếu tôi sai).
 
 > Hosting A này thực hiện DDoS vào Hosting M? Nghe thú vị nhỉ nhưng không có bằng chứng 🫡.
 
