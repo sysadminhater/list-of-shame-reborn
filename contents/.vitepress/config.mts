@@ -67,7 +67,9 @@ export default defineConfig({
       },
       {
         text: 'Lừa đảo',
-        items: []
+        items: [
+          { text: 'Nexus Studio', link: '/scammers/nexus.md' }
+        ]
       }
     ],
 
