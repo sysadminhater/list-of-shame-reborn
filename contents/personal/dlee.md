@@ -1,5 +1,5 @@
-# Dlee (Aka [Đỗ Long](https://www.facebook.com/groups/972581796927367/user/100034920576738))
-> Bạn muốn bị **Anh Long** xúc phạm? DM thẳng anh ấy bằng cách click vào trên nhé!
+# Dlee (Aka [Đỗ Long](https://www.facebook.com/nhoc.gm.0306/))
+> Bạn muốn bị **Anh Long** xúc phạm? DM anh ấy bằng cách click vào trên nhé!
 
 **Một số thông tin sơ bộ về cá nhân này:**
 - Tên: Đỗ Long
